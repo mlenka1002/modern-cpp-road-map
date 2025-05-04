@@ -79,5 +79,4 @@ A structured guide to learning and applying **Modern C++ (C++11 through C++23)**
 
 ---
 
-✅ _Tip: Track your progress and experiment with each feature in isolation before combining them into projects._
 
